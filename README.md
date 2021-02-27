@@ -2,7 +2,7 @@
 
 # :book: About Me
 - 🖥 I'm a Sr. bancked and cloud engineer 
-- 💼 <a href="bit.ly/mariano-iglesias-marchese-cv"> Details about my career </a>
+- 💼 <a href="http://www.bit.ly/mariano-iglesias-marchese-cv"> Details about my career </a>
 - 💻 <a href="https://www.linkedin.com/in/mariano-iglesias-marchese/"> You can find me at my Linkedin </a>
 - 🌐 You can access all my open-source projects here.
 
