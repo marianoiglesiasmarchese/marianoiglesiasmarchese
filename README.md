@@ -11,5 +11,5 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marianoiglesiasmarchese" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=marianoiglesiasmarchese&show_icons=true&line_height=27" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=marianoiglesiasmarchese&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a> 
